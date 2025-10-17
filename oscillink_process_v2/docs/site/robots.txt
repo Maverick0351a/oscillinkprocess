@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://oscillink.com/sitemap.xml
+Sitemap: https://maverick0351a.github.io/oscillinkprocess/sitemap.xml

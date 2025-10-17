@@ -94,6 +94,8 @@ Commercial extensions (advanced agent logic, domain packs, integrations) under a
 <!-- CI badge (auto-updated) -->
 [![CI](https://github.com/Maverick0351a/oscillinkprocess/actions/workflows/ci.yml/badge.svg)](https://github.com/Maverick0351a/oscillinkprocess/actions/workflows/ci.yml)
 
+Website (GitHub Pages): https://maverick0351a.github.io/oscillinkprocess/
+
 ---
 
 ## Safety, scope, and neutrality
