@@ -1,0 +1,5 @@
+{
+  "acceptance": {
+    "max_mse": 0.01
+  }
+}
