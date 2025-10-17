@@ -1,4 +1,7 @@
 # The Oscillink Process™ (v2)
+[![CI](https://github.com/Maverick0351a/oscillinkprocess/actions/workflows/ci.yml/badge.svg)](https://github.com/Maverick0351a/oscillinkprocess/actions/workflows/ci.yml)
+**Website:** https://maverick0351a.github.io/oscillinkprocess/
+
 > The Oscillink Process™ is a patent-pending method for autonomous AI development (Idea → Plan → Scaffold → Build → Test → Benchmark → Publish → Maintain).
 **Patent Pending — U.S. Provisional No. 63/900,694**  
 **Title:** Systems and Methods for Autonomous Idea → Plan → Scaffold → Build → Test → Benchmark → Publish → Maintain
@@ -91,10 +94,7 @@ See `docs/patent.md` and `PATENT-NOTICE.md` for details.
 Open‑core. Community code under **AGPL‑3.0** (see `LICENSE-AGPL-3.0.txt`).  
 Commercial extensions (advanced agent logic, domain packs, integrations) under a separate **Enterprise License** (see `LICENSE-ENTERPRISE.md`).
 
-<!-- CI badge (auto-updated) -->
-[![CI](https://github.com/Maverick0351a/oscillinkprocess/actions/workflows/ci.yml/badge.svg)](https://github.com/Maverick0351a/oscillinkprocess/actions/workflows/ci.yml)
-
-Website (GitHub Pages): https://maverick0351a.github.io/oscillinkprocess/
+<!-- CI badge is shown at the top. -->
 
 ---
 
